@@ -10,9 +10,9 @@ require 'pry'
 
 def get_the_keys(groceries)
   groceries = {
-   :dairy,
-   :vegetable,
-   :meat,
-   :grains
+   :dairy=>
+   :vegetable=>
+   :meat=>
+   :grains=>
   }
 end
