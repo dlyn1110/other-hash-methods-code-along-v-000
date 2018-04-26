@@ -13,7 +13,7 @@ def get_the_keys(groceries)
    :dairy=>
    :vegetable=>
    :meat=>
-   :grains=>
+   :grains
   }
  end
 end
